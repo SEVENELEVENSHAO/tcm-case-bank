@@ -1,10 +1,12 @@
 # TCM Case Bank
 
-A searchable, self-contained viewer for 1,306 traditional Chinese medicine case records.
+A searchable, self-contained viewer for 1,404 traditional Chinese medicine case records.
 
 The records retain their source labels and source locators where available. This is a study and reference collection, not clinical guidance. Records and extracted source text may still require review against the cited originals.
 
 The 77 柴嵩岩 records imported from two searchable PDFs are explicitly marked `待复核` (`pending`). Their original passages, source-native chapters, PDF/printed-page locators, and one probable duplicate pair are retained for review.
+
+The 98 陈慧侬 gynecology records imported from the searchable 402-page PDF are also marked `待复核`. They retain verbatim extracted passages, source-native case titles, and PDF/printed-page locators. Missing source labels remain blank instead of being inferred.
 
 ## Open locally
 
